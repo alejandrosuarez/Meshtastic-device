@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 MAINTAINER Kevin Hester <kevinh@geeksville.com>
 
 RUN apt-get update
