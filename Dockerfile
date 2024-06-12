@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.10
 MAINTAINER Kevin Hester <kevinh@geeksville.com>
 
 RUN apt-get update
